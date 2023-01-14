@@ -1,3 +1,1 @@
-<p align="center">
-  <img src="https://github.com/Soteria-CTF-Team/.github/blob/main/profile/logo1.png?raw=true" />
-</p>
+[![SOter14](https://github.com/Soteria-CTF-Team/.github/blob/main/profile/logo1.png?raw=true#gh-dark-mode-only)](https://soter14.tech#gh-dark-mode-only)[![SOter14](https://github.com/Soteria-CTF-Team/.github/blob/main/profile/sorter14light.png?raw=true#gh-light-mode-only)](https://soter14.tech#gh-light-mode-only)
